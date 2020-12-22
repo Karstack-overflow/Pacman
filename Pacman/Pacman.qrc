@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Pacman">
+        <file>Testspielfeld.txt</file>
+    </qresource>
+</RCC>
